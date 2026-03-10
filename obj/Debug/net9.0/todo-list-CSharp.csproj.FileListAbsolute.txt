@@ -1,0 +1,15 @@
+C:\Users\nateh\Documents\BYU-Idaho\cse310Winter2026\todo-list-CSharp\bin\Debug\net9.0\todo-list-CSharp.exe
+C:\Users\nateh\Documents\BYU-Idaho\cse310Winter2026\todo-list-CSharp\bin\Debug\net9.0\todo-list-CSharp.deps.json
+C:\Users\nateh\Documents\BYU-Idaho\cse310Winter2026\todo-list-CSharp\bin\Debug\net9.0\todo-list-CSharp.runtimeconfig.json
+C:\Users\nateh\Documents\BYU-Idaho\cse310Winter2026\todo-list-CSharp\bin\Debug\net9.0\todo-list-CSharp.dll
+C:\Users\nateh\Documents\BYU-Idaho\cse310Winter2026\todo-list-CSharp\bin\Debug\net9.0\todo-list-CSharp.pdb
+C:\Users\nateh\Documents\BYU-Idaho\cse310Winter2026\todo-list-CSharp\obj\Debug\net9.0\todo-list-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nateh\Documents\BYU-Idaho\cse310Winter2026\todo-list-CSharp\obj\Debug\net9.0\todo-list-CSharp.AssemblyInfoInputs.cache
+C:\Users\nateh\Documents\BYU-Idaho\cse310Winter2026\todo-list-CSharp\obj\Debug\net9.0\todo-list-CSharp.AssemblyInfo.cs
+C:\Users\nateh\Documents\BYU-Idaho\cse310Winter2026\todo-list-CSharp\obj\Debug\net9.0\todo-list-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\nateh\Documents\BYU-Idaho\cse310Winter2026\todo-list-CSharp\obj\Debug\net9.0\todo-list-CSharp.sourcelink.json
+C:\Users\nateh\Documents\BYU-Idaho\cse310Winter2026\todo-list-CSharp\obj\Debug\net9.0\todo-list-CSharp.dll
+C:\Users\nateh\Documents\BYU-Idaho\cse310Winter2026\todo-list-CSharp\obj\Debug\net9.0\refint\todo-list-CSharp.dll
+C:\Users\nateh\Documents\BYU-Idaho\cse310Winter2026\todo-list-CSharp\obj\Debug\net9.0\todo-list-CSharp.pdb
+C:\Users\nateh\Documents\BYU-Idaho\cse310Winter2026\todo-list-CSharp\obj\Debug\net9.0\todo-list-CSharp.genruntimeconfig.cache
+C:\Users\nateh\Documents\BYU-Idaho\cse310Winter2026\todo-list-CSharp\obj\Debug\net9.0\ref\todo-list-CSharp.dll
